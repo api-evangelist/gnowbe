@@ -1,7 +1,25 @@
 aid: gnowbe
 name: Gnowbe
-description: Gnowbe is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Gnowbe is an AI-powered workforce enablement and performance platform for
+  enterprise learning, enablement, and alignment. It turns static content and communication
+  into mobile-first microlearning experiences with AI-powered activation and execution
+  tracking, so teams do not just learn but perform. Trusted by 500,000+ learners across
+  100+ countries, Gnowbe combines authoring, AI content creation, group-based delivery,
+  completion and engagement analytics, and integrations (SSO/SAML, LMS/SCORM, xAPI/LRS,
+  HR systems, Slack, Microsoft Teams, and Zapier's 5,000+ tools). Gnowbe is a portfolio
+  company of 500 Global.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.gnowbe.com/images/blog/66e842135014fdff984ea637_logo-opengraph.png
 url: https://raw.githubusercontent.com/api-evangelist/gnowbe/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +29,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Learning
+- Microlearning
+- Training
+- Enablement
+- Workforce
+- Education
+- LMS
+- AI
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +49,24 @@ maintainers:
 common:
 - type: Website
   url: https://gnowbe.com
+- type: Pricing
+  url: https://www.gnowbe.com/pricing
+- type: Login
+  url: https://web.gnowbe.com
+- type: TermsOfService
+  url: https://www.gnowbe.com/terms
+- type: PrivacyPolicy
+  url: https://www.gnowbe.com/privacy
+- type: HelpCenter
+  url: https://gnowbe.zendesk.com/hc/en-us
+- type: Blog
+  url: https://www.gnowbe.com/blog
+- type: LLMsTxt
+  url: llms/gnowbe-llms.txt
+- type: DomainSecurity
+  url: security/gnowbe-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

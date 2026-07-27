@@ -1,0 +1,137 @@
+# Gnowbe — AI-Powered Performance Platform
+
+> Gnowbe is the AI-powered performance platform for enterprise learning, enablement, and alignment. Mobile-first microlearning trusted by 500,000+ learners in 100+ countries.
+
+## Core Pages
+
+- [Homepage](https://www.gnowbe.com/)
+- [Platform Features](https://www.gnowbe.com/platform)
+- [Gnowbe AI](https://www.gnowbe.com/ai)
+- [Pricing](https://www.gnowbe.com/pricing)
+- [Compare Plans](https://www.gnowbe.com/compare)
+- [Integrations](https://www.gnowbe.com/integrations)
+- [Contact / Book a Demo](https://www.gnowbe.com/contact)
+- [ROI Calculator](https://www.gnowbe.com/roi-calculator)
+
+## Solutions by Industry
+
+- [Solutions Overview](https://www.gnowbe.com/solutions)
+
+- [Retail](https://www.gnowbe.com/solutions/retail)
+- [Hospitality](https://www.gnowbe.com/solutions/hospitality)
+- [Manufacturing](https://www.gnowbe.com/solutions/manufacturing)
+- [Logistics](https://www.gnowbe.com/solutions/logistics)
+- [Higher Education](https://www.gnowbe.com/solutions/higher-education)
+- [Home & Field Services](https://www.gnowbe.com/solutions/home-and-field-services)
+- [Training & Consulting](https://www.gnowbe.com/solutions/training-and-consulting)
+
+## Solutions by Use Case
+
+- [Sales Enablement](https://www.gnowbe.com/solutions/sales-enablement)
+- [Employee Onboarding](https://www.gnowbe.com/solutions/onboarding)
+- [Learning & Development](https://www.gnowbe.com/solutions/learning-and-development)
+
+## Company
+
+- [About Gnowbe](https://www.gnowbe.com/about)
+- [Team](https://www.gnowbe.com/team)
+- [Awards & Accolades](https://www.gnowbe.com/awards)
+- [Careers](https://www.gnowbe.com/careers)
+- [Privacy Policy](https://www.gnowbe.com/privacy)
+- [Terms of Service](https://www.gnowbe.com/terms)
+
+## Resources
+
+- [Blog](https://www.gnowbe.com/blog)
+- [Case Studies](https://www.gnowbe.com/case-studies)
+- [Resources Library](https://www.gnowbe.com/resources)
+- [In the News](https://www.gnowbe.com/in-the-news)
+- [Feature Updates](https://www.gnowbe.com/feature-updates)
+- [Videos](https://www.gnowbe.com/videos)
+- [Events](https://www.gnowbe.com/events)
+- [Intelligence Hub](https://www.gnowbe.com/intelligence)
+
+## MID Certification
+
+- [MID Overview](https://www.gnowbe.com/mid)
+- [Anyone Can Create (Free)](https://www.gnowbe.com/mid/anyone-can-create)
+- [MID 101 Certification ($497)](https://www.gnowbe.com/mid/mid101)
+- [MID 201 Accreditation ($4,999)](https://www.gnowbe.com/mid/mid201)
+- [MID 201 SkillsFuture (Singapore)](https://www.gnowbe.com/mid/mid201-skillsfuture)
+- [MID 301 Partner ($4,999/org)](https://www.gnowbe.com/mid/mid301)
+
+## Masterclass Series
+
+- [Masterclass Overview](https://www.gnowbe.com/masterclass)
+- [AI in Microlearning](https://www.gnowbe.com/masterclass/ai)
+- [Behaviors & Mindsets](https://www.gnowbe.com/masterclass/behaviors)
+- [Gamification Principles](https://www.gnowbe.com/masterclass/gamification)
+- [Data & Analytics](https://www.gnowbe.com/masterclass/data-analytics)
+
+## Programs
+
+- [Scholarship ($10M)](https://www.gnowbe.com/scholarship)
+- [UN SDGs & UNIDO](https://www.gnowbe.com/sustainable-development)
+- [Nonprofits](https://www.gnowbe.com/nonprofits)
+- [Referral Program](https://www.gnowbe.com/referral)
+- [Churchwide Subscriptions](https://www.gnowbe.com/churchwide)
+- [LivingBooks](https://www.gnowbe.com/livingbooks)
+- [Get the App](https://www.gnowbe.com/get-app)
+
+## External
+
+- [GnowbeLearn Library](https://learn.gnowbe.com)
+- [Sign In](https://web.gnowbe.com)
+- [Help Center](https://gnowbe.zendesk.com/hc/en-us)
+
+## Intelligence Hub — Retail
+
+- [Retail Industry Overview](https://www.gnowbe.com/intelligence/retail)
+- [Retail Part 1 — Infographic](https://www.gnowbe.com/intelligence/retail/retail-part-1-infographic)
+- [Retail Part 1 — White Paper](https://www.gnowbe.com/intelligence/retail/retail-part-1-white-paper)
+- [Retail Part 2 — Infographic](https://www.gnowbe.com/intelligence/retail/retail-part-2-infographic)
+- [Retail Part 2 — White Paper](https://www.gnowbe.com/intelligence/retail/retail-part-2-white-paper)
+- [Retail Part 3 — Infographic](https://www.gnowbe.com/intelligence/retail/retail-part-3-infographic)
+- [Retail Part 3 — White Paper](https://www.gnowbe.com/intelligence/retail/retail-part-3-white-paper)
+- [Retail Part 4 — Infographic](https://www.gnowbe.com/intelligence/retail/retail-part-4-infographic)
+- [Retail Part 4 — White Paper](https://www.gnowbe.com/intelligence/retail/retail-part-4-white-paper)
+- [Retail Summary — Infographic](https://www.gnowbe.com/intelligence/retail/retail-summary-infographic)
+
+## Intelligence Hub — Hospitality
+
+- [Hospitality Industry Overview](https://www.gnowbe.com/intelligence/hospitality)
+- [Hospitality Part 1 — Infographic](https://www.gnowbe.com/intelligence/hospitality/hospitality-part-1-infographic)
+- [Hospitality Part 1 — White Paper](https://www.gnowbe.com/intelligence/hospitality/hospitality-part-1-white-paper)
+- [Hospitality Part 2 — Infographic](https://www.gnowbe.com/intelligence/hospitality/hospitality-part-2-infographic)
+- [Hospitality Part 2 — White Paper](https://www.gnowbe.com/intelligence/hospitality/hospitality-part-2-white-paper)
+- [Hospitality Part 3 — Infographic](https://www.gnowbe.com/intelligence/hospitality/hospitality-part-3-infographic)
+- [Hospitality Part 3 — White Paper](https://www.gnowbe.com/intelligence/hospitality/hospitality-part-3-white-paper)
+- [Hospitality Part 4 — Infographic](https://www.gnowbe.com/intelligence/hospitality/hospitality-part-4-infographic)
+- [Hospitality Part 4 — White Paper](https://www.gnowbe.com/intelligence/hospitality/hospitality-part-4-white-paper)
+- [Hospitality Summary — Infographic](https://www.gnowbe.com/intelligence/hospitality/hospitality-summary-infographic)
+
+## Intelligence Hub — Manufacturing
+
+- [Manufacturing Industry Overview](https://www.gnowbe.com/intelligence/manufacturing)
+- [Manufacturing Part 1 — Infographic](https://www.gnowbe.com/intelligence/manufacturing/manufacturing-part-1-infographic)
+- [Manufacturing Part 1 — White Paper](https://www.gnowbe.com/intelligence/manufacturing/manufacturing-part-1-white-paper)
+- [Manufacturing Part 2 — Infographic](https://www.gnowbe.com/intelligence/manufacturing/manufacturing-part-2-infographic)
+- [Manufacturing Part 2 — White Paper](https://www.gnowbe.com/intelligence/manufacturing/manufacturing-part-2-white-paper)
+- [Manufacturing Part 3 — Infographic](https://www.gnowbe.com/intelligence/manufacturing/manufacturing-part-3-infographic)
+- [Manufacturing Part 3 — White Paper](https://www.gnowbe.com/intelligence/manufacturing/manufacturing-part-3-white-paper)
+- [Manufacturing Part 4 — Infographic](https://www.gnowbe.com/intelligence/manufacturing/manufacturing-part-4-infographic)
+- [Manufacturing Part 4 — White Paper](https://www.gnowbe.com/intelligence/manufacturing/manufacturing-part-4-white-paper)
+- [Manufacturing Summary — Infographic](https://www.gnowbe.com/intelligence/manufacturing/manufacturing-summary-infographic)
+
+## Intelligence Hub — Logistics
+
+- [Logistics Industry Overview](https://www.gnowbe.com/intelligence/logistics)
+- [Logistics Part 1 — Infographic](https://www.gnowbe.com/intelligence/logistics/logistics-part-1-infographic)
+- [Logistics Part 1 — White Paper](https://www.gnowbe.com/intelligence/logistics/logistics-part-1-white-paper)
+- [Logistics Part 2 — Infographic](https://www.gnowbe.com/intelligence/logistics/logistics-part-2-infographic)
+- [Logistics Part 2 — White Paper](https://www.gnowbe.com/intelligence/logistics/logistics-part-2-white-paper)
+- [Logistics Part 3 — Infographic](https://www.gnowbe.com/intelligence/logistics/logistics-part-3-infographic)
+- [Logistics Part 3 — White Paper](https://www.gnowbe.com/intelligence/logistics/logistics-part-3-white-paper)
+- [Logistics Part 4 — Infographic](https://www.gnowbe.com/intelligence/logistics/logistics-part-4-infographic)
+- [Logistics Part 4 — White Paper](https://www.gnowbe.com/intelligence/logistics/logistics-part-4-white-paper)
+- [Logistics Summary — Infographic](https://www.gnowbe.com/intelligence/logistics/logistics-summary-infographic)
