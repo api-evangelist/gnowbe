@@ -8,6 +8,17 @@ description: Gnowbe is an AI-powered workforce enablement and performance platfo
   completion and engagement analytics, and integrations (SSO/SAML, LMS/SCORM, xAPI/LRS,
   HR systems, Slack, Microsoft Teams, and Zapier's 5,000+ tools). Gnowbe is a portfolio
   company of 500 Global.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
