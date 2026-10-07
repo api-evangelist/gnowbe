@@ -1,0 +1,35 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.gnowbe.com/pricing
+sources:
+- https://www.gnowbe.com/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: false
+note: No numeric price is published on the pricing page; Pricing page lists three tiers (Pro, Business,
+  Scale) with capacity descriptions but no numeric prices; FAQ says Business/Enterprise pricing is quote-based.
+  Free trial grants 200 AI tasks. All fees in USD.
+plan_count: 3
+plans:
+- name: PRO
+  price_text: GET STARTED WITH PRO
+  period: none
+  included_quota: Up to 2,000 automated tasks and ~20–30 hours of content across 70+ languages; capacity
+    for 100 users; unlimited free admins
+- name: BUSINESS
+  price_text: CONNECT WITH A GROWTH EXPERT
+  period: none
+  included_quota: Up to 5,000 tasks and ~50–80 hours; capacity for 1,000 users
+- name: SCALE
+  price_text: CONNECT WITH A GROWTH EXPERT
+  period: none
+  included_quota: Up to 20,000 tasks and ~200–300 hours; capacity for 10,000 users
