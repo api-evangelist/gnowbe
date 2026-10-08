@@ -33,3 +33,30 @@ plans:
   price_text: CONNECT WITH A GROWTH EXPERT
   period: none
   included_quota: Up to 20,000 tasks and ~200–300 hours; capacity for 10,000 users
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models: []
+  units: []
+  plans:
+  - name: PRO
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods:
+    - none
+  - name: BUSINESS
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods:
+    - none
+  - name: SCALE
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods:
+    - none
